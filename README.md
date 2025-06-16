@@ -69,6 +69,15 @@ _Data-driven storytelling using Pandas, NumPy, and Matplotlib_
 🔹 **Library Management System (Frontend)**  
 _Responsive, clean interface for managing a digital library_  
 → Built using HTML, CSS, JavaScript
+---
+
+| Project | Description | Tech Stack | Live Demo / Code |
+|--------|-------------|------------|------------------|
+| 💸 **MyMoneyMentor-AI** | AI-powered personal finance assistant helping users with budget, saving & investment plans | `Python`, `AI`, `Machine Learning`, `Pandas`, `Flask`, `Frontend` | [🔗 GitHub](https://github.com/Afsar426/MyMoneyMentor-AI) |
+| 🎬 **Netflix Data Analysis** | Visual & statistical data analysis of Netflix content trends | `Python`, `Pandas`, `Matplotlib`, `Seaborn` | [🔗 GitHub](https://github.com/Afsar426) *(add repo)* |
+| 🛒 **Amazon Review Sentiment** | NLP project classifying product reviews using ML models | `Python`, `Scikit-learn`, `NLP`, `Streamlit` | [🔗 GitHub](https://github.com/Afsar426) *(add repo)* |
+| 🦠 **COVID-19 Dashboard** | Interactive data visualization dashboard of COVID-19 global stats | `Plotly`, `Dash`, `Pandas`, `Python` | [🔗 GitHub](https://github.com/Afsar426) *(add repo)* |
+| 🌐 **Personal Portfolio Website** | Fully responsive personal portfolio with animations and smooth UI | `HTML`, `CSS`, `JavaScript`, `GSAP`, `TailwindCSS` | [🌍 Live](https://afsar426.github.io) / [🔗 GitHub](https://github.com/Afsar426/Portfolio) |
 
 ---
 
