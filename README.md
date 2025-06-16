@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Afsar Azam</h1>
 <h3 align="center">AI Enthusiast | Frontend Developer | Data Analyst | B.Tech CSE (AI) Student</h3>
 
@@ -18,43 +17,19 @@
 
 🚀 **About Me**
 
+🎓 I'm a passionate B.Tech Artificial Intelligence student at **Sage University, Indore**.  
+💻 Skilled in **Frontend Development**, **Data Analysis**, and exploring **AI-driven applications**.  
+🧠 Focused on solving real-world problems with technology that makes a difference.  
+🌱 Currently working on **MyMoneyMentor-AI**, an intelligent financial planning platform using AI.  
+🎨 Love clean UI/UX design, data storytelling, and responsive web development.
+
 ---
 
-## 📜 My Journey So Far
-
-```yaml
-🧒 2023  
-➡️ Started exploring coding and web development  
-➡️ Built my first HTML/CSS website
-
-🎓 2024 
-➡️ Enrolled in B.Tech in Artificial Intelligence at Sage University, Indore  
-➡️ Gained strong foundations in Python, Data Structures, and Problem Solving
-
-👨‍💻 2024  
-➡️ Began working on real-world data analysis projects  
-➡️ Developed projects using Netflix, Amazon, and COVID-19 datasets  
-➡️ Started designing intuitive user interfaces with Figma  
-➡️ Collaborated on team project **MyMoneyMentor-AI** (Finance + AI)
-
-🌐 2025  
-➡️ Created my personal portfolio website  
-➡️ Building GitHub presence with open-source projects & data visualizations  
-➡️ Constantly upskilling in React, Tailwind, and AI tools
-
-🚀 Future Goals  
-➡️ Land a tech internship or freelance role  
-➡️ Work on AI + Web hybrid products  
-➡️ Contribute to open-source projects and tech communities  
 🛠️ **Tech Stack**
 
 - **Languages:** Python, HTML5, CSS3, JavaScript  
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Jupyter, Git, GitHub, Figma  
 - **Domains:** AI, Data Analytics, Frontend Dev, UI/UX  
-
----
-
-📊 **My GitHub Stats**
 
 ---
 
@@ -74,9 +49,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Afsar426&theme=darkhub&margin-w=10&margin-h=15&column=6&no-frame=true" />
 </p>
 
----
-
-📁 **Projects You Should Check Out**
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Live Demo / Code |
 |--------|-------------|------------|------------------|
@@ -88,21 +61,11 @@
 
 ---
 
-## 📫 Let's Connect
+🤝 **Let’s Connect**
 
 I’m always open to collaborations, internships, and exciting project ideas!
-<div align="center">
-  <a href="mailto:afsarazam.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/afsar-azam-170046330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Afsar426"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/afsarazam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://x.com/afsarazam404"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_mknight__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
 
-📫 **Reach Me At:**  
----
-
+📫 **Reach Me At:** 
 <p align="center">
   <a href="mailto:afsarazam.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -123,7 +86,5 @@ I’m always open to collaborations, internships, and exciting project ideas!
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
----
 
 ⭐️ *"Turning ideas into code and data into impact."*
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
