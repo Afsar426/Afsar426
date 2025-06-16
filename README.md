@@ -15,17 +15,41 @@
 
 ---
 
-🚀 **About Me**
+## 🙋‍♂️ About Me
 
-🎓 I'm a passionate B.Tech Artificial Intelligence student at **Sage University, Indore**.  
-💻 Skilled in **Frontend Development**, **Data Analysis**, and exploring **AI-driven applications**.  
-🧠 Focused on solving real-world problems with technology that makes a difference.  
-🌱 Currently working on **MyMoneyMentor-AI**, an intelligent financial planning platform using AI.  
-🎨 Love clean UI/UX design, data storytelling, and responsive web development.
+Hi there! I'm **Afsar Azam**, an aspiring **Frontend Developer**, **UI/UX Designer**, and **AI & Data Enthusiast** from India 🇮🇳. Currently pursuing my **B.Tech in Artificial Intelligence** at **Sage University, Indore**, I blend creativity with code to build digital experiences that are both impactful and intelligent.
+
+🧠 I specialize in:
+- Designing clean and responsive user interfaces
+- Analyzing real-world datasets with Python (Netflix, Amazon, COVID-19)
+- Building intelligent tools like **MyMoneyMentor-AI**, a personal finance AI assistant
 
 ---
 
+### 🌟 What Drives Me
+
+I’m passionate about solving real-world problems through technology. I believe in continuous learning, community contribution, and turning ideas into working products that **bridge the gap between humans and machines**.
+
 ---
+
+### 🔍 Focus Areas
+
+- **Frontend Engineering** (HTML, CSS, JS, React, Tailwind)
+- **Data Analytics** (NumPy, Pandas, Matplotlib, Seaborn)
+- **AI/ML Foundations** (Scikit-learn, data modeling)
+- **Design Thinking** (Figma, UI/UX process)
+
+---
+
+### 🚀 Currently Working On
+
+- 🎯 **MyMoneyMentor-AI** – AI-powered financial planner
+- 📊 Building dashboards & visualizations using Python
+- 🌍 Portfolio website with animations and interactivity
+
+---
+
+📌 Let’s connect and create something awesome together!
 
 ## 💻 Tech Stack & Tools
 
