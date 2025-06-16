@@ -36,12 +36,22 @@
 
 📊 **My GitHub Stats**
 
+---
+
+## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=radical" alt="Afsar's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsar426&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsar426&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFBF&icon_color=00FFFF&text_color=C5C5C5&bg_color=000000" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsar426&theme=dark&hide_border=true&stroke=00FFFF&ring=00FFBF&fire=FF00CC" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsar426&layout=compact&theme=github_dark&hide_border=true&title_color=00FFBF&text_color=C5C5C5&bg_color=000000" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afsar426&theme=github_dark" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Afsar426&theme=darkhub&margin-w=10&margin-h=15&column=6&no-frame=true" />
 </p>
 
 ---
