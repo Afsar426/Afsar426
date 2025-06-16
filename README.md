@@ -1,6 +1,38 @@
 <h1 align="center">Hi 👋, I'm Afsar Azam</h1>
-<h3 align="center">AI Enthusiast | Frontend Developer | Data Analyst | B.Tech CSE (AI) Student</h3>
+<h2 id="typing-text" style="text-align:center; font-family:sans-serif;"></h2>
 
+<script>
+  const textArray = [
+    "🌟 AI Enthusiast",
+    "🎨 Frontend Developer",
+    "📊 Data Analyst",
+    "🎓 B.Tech CSE (AI) @ Sage University"
+  ];
+  let i = 0, j = 0, currentText = "", isDeleting = false;
+
+  function type() {
+    currentText = textArray[i];
+    const display = document.getElementById("typing-text");
+
+    if (!isDeleting) {
+      display.innerHTML = currentText.substring(0, j++) + "|";
+      if (j > currentText.length) {
+        isDeleting = true;
+        setTimeout(type, 1000);
+        return;
+      }
+    } else {
+      display.innerHTML = currentText.substring(0, j--) + "|";
+      if (j < 0) {
+        isDeleting = false;
+        i = (i + 1) % textArray.length;
+      }
+    }
+    setTimeout(type, isDeleting ? 50 : 100);
+  }
+
+  type();
+</script>
 <p align="center">
   <a href="https://www.linkedin.com/in/afsar-azam-170046330" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
