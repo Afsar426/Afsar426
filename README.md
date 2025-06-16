@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afsar Azam</h1>
+<h1 align="center">Hi 👋, I'm Afsar Azam✨</h1>
 <h3 align="center">🌟 AI Enthusiast &nbsp;|&nbsp; 🎨 Frontend Developer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🎓 B.Tech CSE (AI) @ Sage University</h3>
 
 ## 🙋‍♂️ About Me
