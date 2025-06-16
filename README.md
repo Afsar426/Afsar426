@@ -72,15 +72,33 @@ _Responsive, clean interface for managing a digital library_
 
 ---
 
-🤝 **Let’s Connect**
+## 📫 Let's Connect
 
 I’m always open to collaborations, internships, and exciting project ideas!
 
 📫 **Reach Me At:**  
-- [LinkedIn](https://www.linkedin.com/in/afsar-azam-170046330)  
-- [GitHub](https://github.com/Afsar426)  
-- [Kaggle](https://www.kaggle.com/afsarazam)
+---
 
+<p align="center">
+  <a href="mailto:afsarazam.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/afsar-azam-170046330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Afsar426" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/afsarazam" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://x.com/afsarazam404" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_mknight__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 ---
 
 ⭐️ *"Turning ideas into code and data into impact."*
