@@ -18,14 +18,34 @@
 
 🚀 **About Me**
 
-🎓 I'm a passionate B.Tech Artificial Intelligence student at **Sage University, Indore**.  
-💻 Skilled in **Frontend Development**, **Data Analysis**, and exploring **AI-driven applications**.  
-🧠 Focused on solving real-world problems with technology that makes a difference.  
-🌱 Currently working on **MyMoneyMentor-AI**, an intelligent financial planning platform using AI.  
-🎨 Love clean UI/UX design, data storytelling, and responsive web development.
-
 ---
 
+## 📜 My Journey So Far
+
+```yaml
+🧒 2023  
+➡️ Started exploring coding and web development  
+➡️ Built my first HTML/CSS website
+
+🎓 2024 
+➡️ Enrolled in B.Tech in Artificial Intelligence at Sage University, Indore  
+➡️ Gained strong foundations in Python, Data Structures, and Problem Solving
+
+👨‍💻 2024  
+➡️ Began working on real-world data analysis projects  
+➡️ Developed projects using Netflix, Amazon, and COVID-19 datasets  
+➡️ Started designing intuitive user interfaces with Figma  
+➡️ Collaborated on team project **MyMoneyMentor-AI** (Finance + AI)
+
+🌐 2025  
+➡️ Created my personal portfolio website  
+➡️ Building GitHub presence with open-source projects & data visualizations  
+➡️ Constantly upskilling in React, Tailwind, and AI tools
+
+🚀 Future Goals  
+➡️ Land a tech internship or freelance role  
+➡️ Work on AI + Web hybrid products  
+➡️ Contribute to open-source projects and tech communities  
 🛠️ **Tech Stack**
 
 - **Languages:** Python, HTML5, CSS3, JavaScript  
@@ -58,19 +78,6 @@
 
 📁 **Projects You Should Check Out**
 
-🔹 **MyMoneyMentor-AI**  
-_An AI-based financial planner using Python & intelligent algorithms_  
-→ Personal finance insights, budgeting, forecasting
-
-🔹 **Netflix & Amazon Data Analysis**  
-_Data-driven storytelling using Pandas, NumPy, and Matplotlib_  
-→ Trends, user behavior, and platform comparison
-
-🔹 **Library Management System (Frontend)**  
-_Responsive, clean interface for managing a digital library_  
-→ Built using HTML, CSS, JavaScript
----
-
 | Project | Description | Tech Stack | Live Demo / Code |
 |--------|-------------|------------|------------------|
 | 💸 **MyMoneyMentor-AI** | AI-powered personal finance assistant helping users with budget, saving & investment plans | `Python`, `AI`, `Machine Learning`, `Pandas`, `Flask`, `Frontend` | [🔗 GitHub](https://github.com/Afsar426/MyMoneyMentor-AI) |
@@ -84,6 +91,14 @@ _Responsive, clean interface for managing a digital library_
 ## 📫 Let's Connect
 
 I’m always open to collaborations, internships, and exciting project ideas!
+<div align="center">
+  <a href="mailto:afsarazam.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/afsar-azam-170046330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Afsar426"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/afsarazam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://x.com/afsarazam404"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_mknight__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
 📫 **Reach Me At:**  
 ---
