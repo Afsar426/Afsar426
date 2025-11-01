@@ -1,119 +1,114 @@
-<!-- 🌌 Ultimate GitHub Profile README for Afsar Azam -->
+<!-- 💫 Advanced Animated GitHub Profile for Afsar Azam -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=👋+Hey%2C+I'm+Afsar+Azam!;🚀+Frontend+Developer+%7C+AI+Engineer;🎨+UI%2FUX+Designer+%7C+Data+Analyst;💡+Turning+Ideas+into+Intelligence" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1aff,100:00bfff&text=Afsar%20Azam%20👨‍💻&fontAlign=50&fontAlignY=40&fontSize=45&desc=AI%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Data%20Analyst&descAlign=50&descAlignY=60&descSize=20&fontColor=ffffff" />
-</p>
-
-<h3 align="center">✨ Building Intelligent Systems That Turn Data into Decisions ✨</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=AI+Engineer+%7C+Frontend+Developer+%7C+Data+Analyst;Innovating+With+Code+%26+Machine+Learning;Passionate+About+AI+Agents+%26+Smart+Systems" alt="Typing Animation" />
-</p>
-
----
-
-## 🧠 **About Me**
-
-💡 AI-driven problem solver blending creativity with logic.  
-🎓 B.Tech in **Artificial Intelligence** @ Sage University, Indore  
-💻 Focused on **Machine Learning, Frontend, and AI Systems Design**  
-🧩 Exploring **Generative AI, Deep Learning, and LLM-based agents**  
-🌍 Passionate about sustainability, data ethics & innovation.  
-⚡ “Every line of code brings an idea to life.”  
-
----
-
-## 🌐 **Connect with Me**
-
-<p align="center">
-  <a href="https://afsarazam.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/afsarazam404" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/afsar426" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/afsarazam404" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/afsarazam" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_mknight__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://afsar426.github.io/afsar-portfolio-pro/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-afsarazam.dev-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.kaggle.com/afsarazam" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://x.com/afsarazam404" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_mknight__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/afsarazam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💻 **Tech Arsenal**
+### 🧠 About Me  
 
-### 🧩 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+💡 Passionate about **creating intelligent digital experiences** powered by AI and beautiful design.  
+🎓 Pursuing **B.Tech in Artificial Intelligence** @ *SAGE University, Indore*.  
+⚙️ Currently working on **AI assistants, data-driven apps, and interactive web solutions**.  
+🎯 Mission: To combine **technology + creativity** to build human-centered AI systems.  
+📫 Reach me at **afsarazam404@gmail.com**
 
 ---
 
-## 🚀 **Featured Projects**
-
-| Project | Description | Tech Stack |
-|:--------|:-------------|:------------|
-| 🧠 [**MyMoneyMentor-AI**](https://github.com/afsar426/MyMoneyMentor-AI) | AI-powered financial planner using ML & NLP. | Python, Flask, React, Scikit-learn |
-| 🌿 [**GreenLoop**](https://github.com/afsar426/GreenLoop) | Sustainable gardening platform turning waste to compost with AI. | React, TensorFlow, Firebase |
-| 🗣️ [**Jarvis AI**](https://github.com/afsar426/Jarvis-AI) | Voice-controlled AI desktop assistant for automation. | Python, OpenAI, SpeechRecognition |
-| 📊 [**COVID-19 Data Analysis**](https://github.com/afsar426/Covid19-DataAnalysis) | Post-pandemic student health data insights via EDA. | Pandas, Matplotlib, NumPy |
-
----
-
-## 📊 **GitHub Analytics**
+### 🧰 Tech Stack & Tools  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afsar426&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afsar426&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsar426&theme=tokyo-night&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,react,html,css,js,tailwind,nodejs,express,mongodb,git,github,vscode,figma,ai,ps" />
 </p>
 
 ---
 
-## 🏆 **Trophies & Achievements**
+### 🚀 Highlighted Projects  
+
+#### 💸 [MyMoneyMentor-AI](https://github.com/Afsar426/MyMoneyMentor-AI)
+> 💰 An AI-powered financial planning assistant that helps users manage expenses, track goals, and make smarter investment decisions.  
+**Tech:** Python, Flask, React, NLP, Machine Learning
+
+#### 🌱 [GreenLoop](https://github.com/Afsar426/GreenLoop)
+> 🌿 A sustainable AI platform that helps local communities convert waste into compost and grow their own food.  
+**Tech:** React, Node.js, MongoDB, AI APIs
+
+#### 🧠 [COVID-19 Mental Health Analysis](https://github.com/Afsar426/COVID19-MentalHealth)
+> 📊 Data-driven insights into post-pandemic student mental health using visualization and EDA.  
+**Tech:** Python, Pandas, Matplotlib, Seaborn, Jupyter
+
+#### 🤖 [Jarvis AI Assistant](https://github.com/Afsar426/Jarvis-AI)
+> 🗣️ Voice-controlled desktop assistant that can open apps, play music, and perform smart actions.  
+**Tech:** Python, pyttsx3, SpeechRecognition, OpenAI API
+
+#### 💻 [Portfolio Website](https://afsar426.github.io/afsar-portfolio-pro/)
+> 🌐 A fully responsive portfolio that reflects my creative + AI journey.  
+**Tech:** HTML, CSS, JavaScript, React, Tailwind
+
+---
+
+### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afsar426&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsar426&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsar426&layout=compact&theme=radical&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-## 🧠 **3D Contribution Graph**
+### 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arya-DS/Arya-DS/output/github-contribution-grid-snake.svg" alt="3D Snake Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Afsar426&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&no-bg=true"/>
 </p>
 
 ---
 
-## 🤝 **Let’s Build Something Together**
+### 🎬 Fun Zone  
 
-💬 Love collaborating on **AI, ML, and Web projects**.  
-📧 Reach out: **afsarazam404@gmail.com**  
-⚡ Open to freelance, research, and startup collaborations.  
+- 🎯 Currently building **AI-powered personal assistants**
+- 🧩 Goal: Become a **Top AI Engineer** & Open-Source Contributor  
+- 🎨 Loves creating elegant **UI/UX + AI-driven apps**
+- ⚡ Motto: *"Learn deeply, build boldly, design beautifully."*
+
+---
+
+### ✨ Let’s Connect  
+
+<p align="center">
+  <a href="mailto:afsarazam404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/afsarazam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/afsarazam404"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://afsar426.github.io/afsar-portfolio-pro/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00bfff,100:1a1aff&section=footer" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<h3 align="center">⭐ Turning Ideas into Code & Data into Impact ⭐</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afsar426&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
+<h4 align="center">💖 Thanks for visiting my profile — Keep learning, keep creating, keep inspiring.</h4>
