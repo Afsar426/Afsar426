@@ -1,4 +1,4 @@
-<!-- 💻 Advanced GitHub Profile README for Afsar Azam -->
+<!-- 💻 Ultimate Advanced GitHub Profile README for Afsar Azam -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00C2FF;">Afsar Azam</span></h1>
 
@@ -27,7 +27,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=💻+Building+Beautiful+and+Smart+Digital+Experiences;🧠+Merging+AI,+Design,+and+Code+for+Impact;🎨+Designing+User-Centric+Interfaces+with+Purpose;🚀+Turning+Innovation+into+Reality" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=💻+Building+Beautiful+and+Smart+Digital+Experiences;🧠+Merging+AI,+Design,+and+Code+for+Impact;🎨+Designing+User-Centric+Interfaces+with+Purpose;🚀+Turning+Innovation+into+Reality" alt="Typing Animation">
 </p>
 
 ---
@@ -59,7 +59,7 @@
       <p>🧠 AI-powered financial advisor that helps users track expenses, predict budgets, and plan investments smartly.</p>
       <p><b>Tech:</b> Python, Flask, React, NLP, Machine Learning</p>
       <a href="https://github.com/Afsar426/MyMoneyMentor-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=MyMoneyMentor-AI&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=MyMoneyMentor-AI&theme=radical&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -67,7 +67,7 @@
       <p>♻️ Sustainable AI platform that transforms community waste into compost and promotes eco-friendly living.</p>
       <p><b>Tech:</b> React, Node.js, MongoDB, AI APIs</p>
       <a href="https://github.com/Afsar426/GreenLoop">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=GreenLoop&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=GreenLoop&theme=radical&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -77,7 +77,7 @@
       <p>📊 A data analytics project exploring the mental health impact of the pandemic on students with visualization insights.</p>
       <p><b>Tech:</b> Python, Pandas, Seaborn, Matplotlib</p>
       <a href="https://github.com/Afsar426/COVID19-MentalHealth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=COVID19-MentalHealth&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=COVID19-MentalHealth&theme=radical&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -85,17 +85,17 @@
       <p>🗣️ Voice-controlled assistant that can open apps, play music, and execute smart tasks using Python.</p>
       <p><b>Tech:</b> Python, pyttsx3, SpeechRecognition, OpenAI API</p>
       <a href="https://github.com/Afsar426/Jarvis-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=Jarvis-AI&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=Jarvis-AI&theme=radical&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://afsar426.github.io/afsar-portfolio-pro/" target="_blank">Personal Portfolio</a></h3>
+    <td width="50%" valign="top" colspan="2">
+      <h3>💻 <a href="https://github.com/Afsar426/afsar-portfolio-pro" target="_blank">Portfolio Website</a></h3>
       <p>🌐 A sleek, interactive, and responsive portfolio showcasing my creative and AI-driven work.</p>
       <p><b>Tech:</b> React, Tailwind CSS, JavaScript</p>
-      <a href="https://afsar426.github.io/afsar-portfolio-pro/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=afsar-portfolio-pro&theme=radical" />
+      <a href="https://github.com/Afsar426/afsar-portfolio-pro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afsar426&repo=afsar-portfolio-pro&theme=radical&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -108,6 +108,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsar426&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afsar426&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
@@ -126,15 +130,15 @@
 
 ## 🎯 Fun Facts  
 
-- 🌟 Building my dream AI agent like ChatGPT  
-- 🎨 Designing creative user interfaces & dashboards  
-- 📚 Constantly learning AI/ML & modern frontend stacks  
-- 💬 Love discussing AI, startups, and design systems  
+- 🌟 Building my dream **AI Agent like ChatGPT**  
+- 🎨 Designing creative **user interfaces & dashboards**  
+- 📚 Learning **Deep Learning, TensorFlow & LangChain**  
+- 💬 Passionate about **AI, startups & design systems**  
 - ⚡ Motto: *“Build. Learn. Create. Repeat.”*
 
 ---
 
-## ✨ Let’s Connect  
+## ✨ Connect with Me  
 
 <p align="center">
   <a href="mailto:afsarazam404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
