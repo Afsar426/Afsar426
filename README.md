@@ -1,130 +1,119 @@
-<h1 align="center">Hi 👋, I'm Afsar Azam✨</h1>
-<h3 align="center">🌟 AI Enthusiast &nbsp;|&nbsp; 🎨 Frontend Developer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🎓 B.Tech CSE (AI) @ Sage University</h3>
-
-## 🙋‍♂️ About Me
-
-Hi there! I'm **Afsar Azam**, an aspiring **Frontend Developer**, **UI/UX Designer**, and **AI & Data Enthusiast** from India 🇮🇳. Currently pursuing my **B.Tech in Artificial Intelligence** at **Sage University, Indore**, I blend creativity with code to build digital experiences that are both impactful and intelligent.
-
-🧠 I specialize in:
-- Designing clean and responsive user interfaces
-- Analyzing real-world datasets with Python (Netflix, Amazon, COVID-19)
-- Building intelligent tools like **MyMoneyMentor-AI**, a personal finance AI assistant
-
----
-
-### 🌟 What Drives Me
-
-I’m passionate about solving real-world problems through technology. I believe in continuous learning, community contribution, and turning ideas into working products that **bridge the gap between humans and machines**.
-
----
-
-### 🔍 Focus Areas
-
-- **Frontend Engineering** (HTML, CSS, JS, React, Tailwind)
-- **Data Analytics** (NumPy, Pandas, Matplotlib, Seaborn)
-- **AI/ML Foundations** (Scikit-learn, data modeling)
-- **Design Thinking** (Figma, UI/UX process)
-
----
-
-### 🚀 Currently Working On
-
-- 🎯 **MyMoneyMentor-AI** – AI-powered financial planner
-- 📊 Building dashboards & visualizations using Python
-- 🌍 Portfolio website with animations and interactivity
-
----
-
-📌 Let’s connect and create something awesome together!
-
-## 💻 Tech Stack & Tools
-
-### 🚀 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 📊 Data Science & AI
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0046A4?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🎨 Design & UI/UX
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-## 📊 GitHub Insights
+<!-- 🌌 Ultimate GitHub Profile README for Afsar Azam -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFBF&icon_color=00FFFF&text_color=C5C5C5&bg_color=000000" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsar426&theme=dark&hide_border=true&stroke=00FFFF&ring=00FFBF&fire=FF00CC" width="47%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1aff,100:00bfff&text=Afsar%20Azam%20👨‍💻&fontAlign=50&fontAlignY=40&fontSize=45&desc=AI%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Data%20Analyst&descAlign=50&descAlignY=60&descSize=20&fontColor=ffffff" />
+</p>
+
+<h3 align="center">✨ Building Intelligent Systems That Turn Data into Decisions ✨</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=AI+Engineer+%7C+Frontend+Developer+%7C+Data+Analyst;Innovating+With+Code+%26+Machine+Learning;Passionate+About+AI+Agents+%26+Smart+Systems" alt="Typing Animation" />
+</p>
+
+---
+
+## 🧠 **About Me**
+
+💡 AI-driven problem solver blending creativity with logic.  
+🎓 B.Tech in **Artificial Intelligence** @ Sage University, Indore  
+💻 Focused on **Machine Learning, Frontend, and AI Systems Design**  
+🧩 Exploring **Generative AI, Deep Learning, and LLM-based agents**  
+🌍 Passionate about sustainability, data ethics & innovation.  
+⚡ “Every line of code brings an idea to life.”  
+
+---
+
+## 🌐 **Connect with Me**
+
+<p align="center">
+  <a href="https://afsarazam.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/afsarazam404" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/afsar426" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/afsarazam404" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/afsarazam" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_mknight__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 **Tech Arsenal**
+
+### 🧩 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 **Featured Projects**
+
+| Project | Description | Tech Stack |
+|:--------|:-------------|:------------|
+| 🧠 [**MyMoneyMentor-AI**](https://github.com/afsar426/MyMoneyMentor-AI) | AI-powered financial planner using ML & NLP. | Python, Flask, React, Scikit-learn |
+| 🌿 [**GreenLoop**](https://github.com/afsar426/GreenLoop) | Sustainable gardening platform turning waste to compost with AI. | React, TensorFlow, Firebase |
+| 🗣️ [**Jarvis AI**](https://github.com/afsar426/Jarvis-AI) | Voice-controlled AI desktop assistant for automation. | Python, OpenAI, SpeechRecognition |
+| 📊 [**COVID-19 Data Analysis**](https://github.com/afsar426/Covid19-DataAnalysis) | Post-pandemic student health data insights via EDA. | Pandas, Matplotlib, NumPy |
+
+---
+
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afsar426&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afsar426&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsar426&layout=compact&theme=github_dark&hide_border=true&title_color=00FFBF&text_color=C5C5C5&bg_color=000000" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afsar426&theme=github_dark" width="47%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsar426&theme=tokyo-night&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afsar426&theme=darkhub&margin-w=10&margin-h=15&column=6&no-frame=true" />
-</p>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo / Code |
-|--------|-------------|------------|------------------|
-| 💸 **MyMoneyMentor-AI** | AI-powered personal finance assistant helping users with budget, saving & investment plans | `Python`, `AI`, `Machine Learning`, `Pandas`, `Flask`, `Frontend` | [🔗 GitHub](https://github.com/Afsar426/MyMoneyMentor-AI) |
-| 🎬 **Netflix Data Analysis** | Visual & statistical data analysis of Netflix content trends | `Python`, `Pandas`, `Matplotlib`, `Seaborn` | [🔗 GitHub](https://github.com/Afsar426) *(add repo)* |
-| 🛒 **Amazon Review Sentiment** | NLP project classifying product reviews using ML models | `Python`, `Scikit-learn`, `NLP`, `Streamlit` | [🔗 GitHub](https://github.com/Afsar426) *(add repo)* |
-| 🦠 **COVID-19 Dashboard** | Interactive data visualization dashboard of COVID-19 global stats | `Plotly`, `Dash`, `Pandas`, `Python` | [🔗 GitHub](https://github.com/Afsar426) *(add repo)* |
-| 🌐 **Personal Portfolio Website** | Fully responsive personal portfolio with animations and smooth UI | `HTML`, `CSS`, `JavaScript`, `GSAP`, `TailwindCSS` | [🌍 Live](https://afsar426.github.io) / [🔗 GitHub](https://github.com/Afsar426/Portfolio) |
 
 ---
 
-🤝 **Let’s Connect**
+## 🏆 **Trophies & Achievements**
 
-I’m always open to collaborations, internships, and exciting project ideas!
-
-📫 **Reach Me At:** 
 <p align="center">
-  <a href="mailto:afsarazam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/afsar-azam-170046330" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Afsar426" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/afsarazam" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  <a href="https://x.com/afsarazam404" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_mknight__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=afsar426&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
-⭐️ *"Turning ideas into code and data into impact."*
+---
+
+## 🧠 **3D Contribution Graph**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arya-DS/Arya-DS/output/github-contribution-grid-snake.svg" alt="3D Snake Contribution Graph" />
+</p>
+
+---
+
+## 🤝 **Let’s Build Something Together**
+
+💬 Love collaborating on **AI, ML, and Web projects**.  
+📧 Reach out: **afsarazam404@gmail.com**  
+⚡ Open to freelance, research, and startup collaborations.  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00bfff,100:1a1aff&section=footer" />
+</p>
+
+<h3 align="center">⭐ Turning Ideas into Code & Data into Impact ⭐</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afsar426&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
