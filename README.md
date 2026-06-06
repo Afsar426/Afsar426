@@ -283,23 +283,19 @@ A fully animated, responsive developer portfolio showcasing AI projects, skills,
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afsar426&theme=tokyonight" width="100%">
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afsar426&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afsar426&theme=tokyonight">
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsar426&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Afsar426&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afsar426&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Afsar426&theme=tokyonight">
+</p>
 
 ## 🏆 GitHub Trophies
 
