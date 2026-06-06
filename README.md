@@ -285,17 +285,9 @@ A fully animated, responsive developer portfolio showcasing AI projects, skills,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afsar426&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsar426&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Afsar426&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsar426&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -303,15 +295,20 @@ A fully animated, responsive developer portfolio showcasing AI projects, skills,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afsar426&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Afsar426&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Afsar426&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Afsar426&theme=tokyonight&no-frame=true&no-bg=true"/>
+
 </div>
+
 
 ---
 
