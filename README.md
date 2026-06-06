@@ -297,12 +297,6 @@ A fully animated, responsive developer portfolio showcasing AI projects, skills,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Afsar426&theme=tokyonight">
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afsar426&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
 ---
 
 ## 🗺️ AI Learning Roadmap
