@@ -1,378 +1,145 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afsar%20Azam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Generative%20AI%20Builder&descAlignY=52&descSize=16" width="100%"/>
 
-</div>
+# Hi, I'm Afsar Azam
 
-<div align="center">
+### AI/ML Engineer building applied, agentic, and multimodal AI systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+Production+AI+Systems+%F0%9F%A7%A0;Data+Science+%7C+Machine+Learning+%7C+Full-Stack;Agentic+AI+%7C+Deep+Learning+%7C+LLM+Engineering;Turning+Complex+Problems+into+Elegant+Solutions)](https://git.io/typing-svg)
+I turn data, models, and product thinking into practical AI experiences - from financial-fraud detection and healthcare forecasting to remote-sensing intelligence.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Afsar426-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afsar426)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afsar%20Azam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsar-azam-170046330/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-afsarazam-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/afsarazam)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsarazam404@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="AI Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## About
 
-### 👨‍💻 About Me
+I'm a B.Tech Artificial Intelligence student at SAGE University, Indore, and an AI/ML engineer interested in production-minded machine learning, agentic systems, computer vision, and multimodal AI. My work spans fraud detection, healthcare analytics, sustainability, and data-driven decision support.
 
-```python
-class AfsarAzam:
-    def __init__(self):
-        self.name        = "Afsar Azam"
-        self.role        = "AI Engineer + Full-Stack Developer"
-        self.university  = "SAGE University, Indore"
-        self.degree      = "B.Tech — Artificial Intelligence"
-        self.location    = "India 🇮🇳"
-        self.email       = "afsarazam404@gmail.com"
+- Building end-to-end systems: data pipelines, model evaluation, APIs, user interfaces, and deployment.
+- Exploring how agents, vision-language models, and remote sensing can make complex analysis easier to use.
+- Open to AI/ML internships, applied research, and meaningful engineering collaborations.
 
-    @property
-    def current_focus(self):
-        return [
-            "🔬 Healthcare AI  — MammoSense (98.25% SVM)",
-            "📊 Data Analytics — Social Impact Dashboards",
-            "🚗 ML Classification — Multi-class Prediction",
-            "🧠 Deep Learning   — TensorFlow & PyTorch",
-            "🤖 Agentic AI      — LangChain & RAG Systems",
-        ]
+## Current focus
 
-    @property
-    def goal(self):
-        return "Build AI products that solve real human problems at scale."
-```
+| Focus | Direction |
+| --- | --- |
+| **Production AI** | Reliable ML workflows, API-backed inference, and deployable data products |
+| **Agentic AI** | Tool-aware systems, LLM APIs, prompt engineering, and practical automation |
+| **Multimodal and remote-sensing AI** | Vision-language models and natural-language interaction with satellite imagery |
+| **Applied ML** | Fraud detection, healthcare forecasting, sustainability, and decision support |
 
-<br clear="right"/>
+## Tech stack
 
----
-
-## 🛠️ Tech Arsenal
+**Languages:** Python, SQL, Scala  
+**Machine learning:** Scikit-learn, TensorFlow, LightGBM, Isolation Forest, SHAP  
+**Data:** Pandas, NumPy, EDA, statistical analysis, Matplotlib, Seaborn, Plotly  
+**Engineering:** FastAPI, Flask, REST APIs, MySQL, PostgreSQL, Supabase, Docker  
+**Tools and platforms:** Power BI, Streamlit, PySide6, AWS, GCP, Render, Git, GitHub, Jupyter, Google Colab  
+**AI:** Generative AI, Agentic AI, LangChain, LLM APIs, prompt engineering
 
 <div align="center">
-
-**AI / Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Full-Stack Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Infrastructure**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
----
+## Flagship projects
 
-## 🚀 Featured Projects
+### SatQuery AI - Agentic Remote-Sensing AI Analyst
 
-> **8 projects** spanning Healthcare AI · Social Analytics · Automotive ML · Finance · Sustainability · Voice AI
+**Active development** - An exploration of a natural-language interface for satellite-image analysis. The direction brings together remote sensing, multimodal AI, vision-language models, and agentic model/tool selection to help make satellite imagery more interactive and understandable.
 
----
+`Remote Sensing` `Multimodal AI` `Vision-Language Models` `Agentic AI`
 
-### 🔬 01. MammoSense AI — Breast Cancer Detection Platform
-> `Healthcare AI · SVM · FastAPI · React · Production`
+### MuleGuard - AI-Powered Mule Account Detection Platform
 
-A **full-stack, production-grade AI platform** that classifies breast tumors as Benign or Malignant using 30 medical diagnostic features from the Wisconsin Breast Cancer dataset. Deployed with a FastAPI backend, React frontend, Explainable AI, and PDF report generation.
+Built during a 36-hour hackathon for bank investigators. MuleGuard combines a LightGBM mule-risk classifier and Isolation Forest anomaly detection in a 26-feature behavioral pipeline. It achieved **79.41% mule-class recall** and **87.18% ROC-AUC**.
 
-<table>
-<tr>
-<td width="55%">
+- Developed a PySide6 desktop experience with risk dashboards, account investigation, transaction analytics, network visualization, and SHAP-based explainability.
+- Connected the client to FastAPI REST APIs; used Supabase PostgreSQL for persistence and deployed the FastAPI backend on Render.
+- **SquidHack 2026 Finalist - Rank 7 of 75 teams.**
 
-**Production highlights:**
-- ✅ SVM model — highest accuracy (98.25%) across 3 algorithms
-- ✅ Explainable AI (XAI) — per-prediction feature importance ranking
-- ✅ Composite Risk Score (0–100) with Low / Medium / High tiers
-- ✅ Medical recommendation engine personalized by risk level
-- ✅ Admin analytics dashboard with real-time metrics
-- ✅ Patient history system with persistent session records
-- ✅ One-click downloadable PDF diagnostic reports
-- ✅ REST API with full /docs via FastAPI + Swagger UI
+`Python` `LightGBM` `Isolation Forest` `SHAP` `PySide6` `FastAPI` `Supabase` `PostgreSQL`
 
-</td>
-<td width="45%">
+### Kisan Mitra - AI-Powered Agriculture Platform
 
-**Model Benchmark:**
+**Active development** - An agriculture-focused AI platform being developed around practical, farmer-oriented intelligence and applied machine learning.
 
-| Model | Accuracy |
-|---|---|
-| 🥇 **SVM** ← *Selected* | **98.25%** |
-| Logistic Regression | 97.37% |
-| Random Forest | 96.49% |
+`Agriculture AI` `Applied ML` `Decision Support`
 
-**Dataset:** Wisconsin Breast Cancer · 569 records · 30 features · Scikit-Learn built-in
+## Supporting projects
 
-**Stack:** `Python` `Scikit-Learn` `FastAPI` `React` `Vite` `Tailwind` `Recharts` `Pickle`
+| Project | Evidence of practice |
+| --- | --- |
+| [Breast Cancer Detection System](https://github.com/Afsar426/Breast-Cancer-Detection) | End-to-end ML workflow on the Wisconsin Breast Cancer dataset; compared Random Forest, SVM, Logistic Regression, and Decision Tree models, then deployed real-time prediction through a Flask application. The résumé reports **98% accuracy**. |
+| [Unaccompanied Children Analytics](https://github.com/Afsar426/System-Capacity-Care-Load-Analytics-for-Unaccompanied-Children) | Processed **8,450+ records** and deployed a Streamlit dashboard with KPI cards, drill-down filters, and 30-day ML forecasting for social-welfare decision support. |
+| [GreenLoop](https://github.com/Afsar426/GREENLOOP) | AI-based composting solution; technical lead of a four-person team. Built Random Forest and regression models integrated with Flask and MySQL for real-time composting recommendations. |
+| [Jarvis AI](https://github.com/Afsar426/JARVIS) | Python voice-assistant project focused on interpreting commands and performing tasks such as opening apps or searching online. |
+| [Car Evaluation](https://github.com/Afsar426/Car-evaluation) | Classical ML classification project using Python and Scikit-learn for preprocessing, feature engineering, model training, and performance analysis. |
 
-</td>
-</tr>
-</table>
+## Experience and achievements
 
-[![GitHub](https://img.shields.io/badge/GitHub-MammoSense_AI-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/Breast-cancer-detection-system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mammosense.vercel.app)
-[![API Docs](https://img.shields.io/badge/API_Docs-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://mammosense-api.onrender.com/docs)
+**Machine Learning Intern, Unified Mentor Pvt. Ltd.**  
+*April 2026 - June 2026*
 
----
+- Engineered Python and Scikit-learn time-series models to forecast healthcare-capacity trends 30 days ahead.
+- Built a Power BI dashboard with DAX measures, KPI cards, and drill-down filters for healthcare-capacity monitoring.
+- Developed an end-to-end data workflow covering ingestion, cleaning, EDA, and feature engineering; identified intake trends, backlog rate, and discharge ratio as key signals.
 
-### 👶 02. System Capacity & Care Load Analytics — Unaccompanied Children
-> `Social Impact AI · Data Analytics · Python · EDA · Policy Insights`
+**Selected achievements**
 
-A **data-driven analytics system** that models shelter system capacity and caseworker care load for unaccompanied migrant children in government care facilities. Built to surface actionable insights for resource allocation, intake forecasting, and child welfare policy decisions.
+- Indian Patent Holder - GreenLoop AI Composting System.
+- Technical Lead for GreenLoop; led a four-member team and contributed to product development and investor pitching.
+- SquidHack 2026 Finalist - Rank 7/75 teams for MuleGuard.
+- Completed the Google AICTE AI/ML Internship and an ML internship at Unified Mentor Pvt. Ltd.
 
-<table>
-<tr>
-<td width="55%">
+## Learning roadmap
 
-**What this project demonstrates:**
-- ✅ Real-world humanitarian dataset — high social impact domain
-- ✅ Capacity utilization analysis — beds, intake rates, turnover
-- ✅ Care load modeling — children per caseworker ratio trends
-- ✅ Time-series forecasting for shelter demand prediction
-- ✅ Geospatial distribution of facilities and intake pressure
-- ✅ Data cleaning pipeline for messy government-sourced data
-- ✅ Rich visualization dashboard (Matplotlib, Seaborn, Plotly)
-- ✅ Policy-ready summary reports with statistical evidence
-
-</td>
-<td width="45%">
-
-**Key Analytical Insights:**
-- 📈 Intake surge patterns correlated with seasonal trends
-- 🏠 Facility capacity vs. actual occupancy gap analysis
-- 👤 Caseworker-to-child ratios by region and time period
-- 📊 Statistical correlation between bed availability and placement delays
-
-**Dataset Domain:** US Health & Human Services (HHS) / Office of Refugee Resettlement (ORR) — Unaccompanied Children Program
-
-**Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Jupyter Notebook`
-
-</td>
-</tr>
-</table>
-
-[![GitHub](https://img.shields.io/badge/GitHub-UC_Care_Analytics-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/System-Capacity-Care-Load-Analytics-for-Unaccompanied-Children)
-
----
-
-### 🚗 03. Car Evaluation & Classification System
-> `Multi-Class Classification · UCI ML · Decision Trees · Random Forest`
-
-A **machine learning classification system** that predicts car acceptability based on 6 key attributes — buying price, maintenance cost, number of doors, passenger capacity, luggage boot size, and safety rating. Trained and benchmarked across multiple classifiers on the UCI Car Evaluation dataset.
-
-<table>
-<tr>
-<td width="55%">
-
-**What this project demonstrates:**
-- ✅ Multi-class classification (unacc / acc / good / vgood)
-- ✅ Full EDA — distribution analysis, class imbalance handling
-- ✅ Label encoding + one-hot encoding for categorical features
-- ✅ Model comparison: Decision Tree, Random Forest, KNN, SVM
-- ✅ Confusion matrix & classification report for each model
-- ✅ Hyperparameter tuning with GridSearchCV
-- ✅ Feature importance visualization
-- ✅ Clean, reproducible Jupyter Notebook workflow
-
-</td>
-<td width="45%">
-
-**Dataset Details:**
-
-| Property | Value |
-|---|---|
-| Source | UCI Machine Learning Repository |
-| Records | 1,728 |
-| Features | 6 input attributes |
-| Classes | 4 (unacc, acc, good, vgood) |
-| Class dist. | Imbalanced — ~70% unacceptable |
-
-**Input Features:** `buying` `maint` `doors` `persons` `lug_boot` `safety`
-
-**Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib` `Seaborn` `Jupyter`
-
-</td>
-</tr>
-</table>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Car_Evaluation-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/Car-evaluation)
-
----
-
-### 🤖 04. Jarvis AI — Voice-Controlled Agentic Assistant
-> `Agentic AI · Voice Interface · Task Automation · OpenAI`
-
-A Python-powered AI assistant that listens, understands, and acts — opens applications, answers questions, plays music, and executes smart tasks using voice commands and the OpenAI API.
-
-**Capabilities:** Natural language task execution · Voice I/O pipeline · System-level automation · Extensible agent architecture
-
-**Stack:** `Python` `SpeechRecognition` `pyttsx3` `OpenAI API` `pywhatkit`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jarvis_AI-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/Jarvis-AI)
-
----
-
-### 💸 05. MyMoneyMentor AI — Financial Intelligence Platform
-> `NLP · Budget Prediction · Flask · Machine Learning`
-
-An AI-powered personal finance advisor that tracks expenses, predicts budget overruns, and gives personalized investment guidance using natural language and ML forecasting models.
-
-**Stack:** `Python` `Flask` `React` `NLP` `Scikit-Learn` `Chart.js`
-
-[![GitHub](https://img.shields.io/badge/GitHub-MyMoneyMentor_AI-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/MyMoneyMentor-AI)
-
----
-
-### 🌱 06. GreenLoop — Sustainable AI Platform
-> `Social Impact · AI APIs · React · MongoDB`
-
-An eco-tech platform that connects communities with waste composting infrastructure through AI-driven matching, pickup scheduling, and sustainability impact tracking.
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `AI APIs`
-
-[![GitHub](https://img.shields.io/badge/GitHub-GreenLoop-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/GreenLoop)
-
----
-
-### 🧠 07. COVID-19 Mental Health Analysis
-> `Data Science · EDA · Public Health · Pandas · Seaborn`
-
-A comprehensive data analytics study investigating the psychological impact of COVID-19 on students, featuring statistical correlation analysis, hypothesis testing, and rich multi-chart visualizations.
-
-**Stack:** `Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter Notebook`
-
-[![GitHub](https://img.shields.io/badge/GitHub-COVID19_Mental_Health-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/COVID19-MentalHealth)
-
----
-
-### 🌐 08. Personal Portfolio Website
-> `React · Tailwind CSS · Vite · Responsive Design`
-
-A fully animated, responsive developer portfolio showcasing AI projects, skills, and creative work with smooth transitions and modern UI/UX design.
-
-**Stack:** `React` `Tailwind CSS` `JavaScript` `Vite`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426/afsar-portfolio-pro)
-[![Live Site](https://img.shields.io/badge/Live_Site-Visit-00e5a0?style=for-the-badge&logo=vercel&logoColor=black)](https://afsar426.github.io/afsar-portfolio-pro/)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afsar426&theme=tokyonight" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afsar426&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afsar426&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Afsar426&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Afsar426&theme=tokyonight">
-</p>
-
----
-
-## 🗺️ AI Learning Roadmap
-
-```
-COMPLETED ✅
-├── Classical ML      — SVM, Logistic Regression, Random Forest, KNN, Decision Trees
-├── Multi-class ML    — Car Evaluation, classification pipelines, GridSearchCV
-├── Data Science      — EDA, Pandas, Seaborn, Matplotlib, Plotly, Jupyter
-├── Social Analytics  — Humanitarian data, policy insights, geospatial trends
-├── Healthcare AI     — MammoSense (98.25% SVM, XAI, PDF reports, FastAPI)
-├── REST API Dev      — FastAPI, Flask, Swagger UI, Pickle serialization
-└── Full-Stack React  — Vite, Tailwind, Recharts, Axios, Chart.js
-
-IN PROGRESS 🔄
-├── Deep Learning     — CNNs, RNNs, Transformers (TensorFlow + PyTorch)
-├── Agentic AI        — LangChain, AutoGen, CrewAI, ReAct Agents
-└── LLM Engineering   — RAG pipelines, Vector DBs, Prompt Engineering
-
-UPCOMING ⏳
-├── Computer Vision   — YOLO, OpenCV, image classification
-├── NLP at Scale      — HuggingFace Transformers, fine-tuning LLMs
-└── MLOps             — Model versioning, CI/CD, Docker, monitoring
+```text
+Applied ML and data products
+        |
+        +-- Deep learning and computer vision
+        |
+        +-- Multimodal AI and remote sensing
+        |
+        +-- Agentic systems and tool use
+        |
+        +-- Deployment, MLOps, and production reliability
 ```
 
----
+Currently deepening work in deep learning, vision-language models, remote sensing, agentic workflows, evaluation, and deployment practices.
 
-## 📚 Currently Learning
+## GitHub activity
 
 <div align="center">
 
-| Area | Topics |
-|---|---|
-| 🧠 **Deep Learning** | CNNs · RNNs · Transformers · Attention Mechanisms |
-| 🤖 **Agentic AI** | LangChain · AutoGen · ReAct Agents · Tool Calling |
-| 🔗 **LLM Engineering** | RAG Pipelines · Vector DBs · Fine-tuning · RLHF |
-| 📊 **Advanced Analytics** | Time-series · Forecasting · Geospatial Analysis |
-| ⚙️ **MLOps** | Model Versioning · CI/CD · Docker · Cloud Monitoring |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afsar426&theme=github_dark" alt="Afsar Azam's GitHub contribution summary" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afsar426&theme=github_dark" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afsar426&theme=github_dark" alt="Top languages by commits" />
 
 </div>
 
----
+## Let's connect
 
-## 📈 Contribution Heatmap
+If you're building thoughtful AI products, working on applied ML, or exploring research collaborations, I'd be glad to connect.
 
-<div align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
-</div>
-
----
-
-## 🤝 Let's Connect
+- [GitHub](https://github.com/Afsar426)
+- [LinkedIn](https://www.linkedin.com/in/afsar-azam-170046330/)
+- [Kaggle](https://www.kaggle.com/afsarazam)
+- [afsarazam404@gmail.com](mailto:afsarazam404@gmail.com)
 
 <div align="center">
 
-I'm actively looking for **AI/ML internships**, **data science roles**, and **research collaborations**.
-If you're building something meaningful — let's talk.
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C2FF?style=for-the-badge)](https://afsar426.github.io/afsar-portfolio-pro/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsarazam/)
-[![Gmail](https://img.shields.io/badge/Email-afsarazam404@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsarazam404@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/afsarazam)
-[![Twitter](https://img.shields.io/badge/Twitter_(X)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/afsarazam404)
-[![GitHub](https://img.shields.io/badge/GitHub-Afsar426-181717?style=for-the-badge&logo=github)](https://github.com/Afsar426)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best way to predict the future is to build it."*
-
-⭐ **If my work helped you or impressed you — a star goes a long way!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+*Build useful systems. Learn in public. Ship with care.*
 
 </div>
